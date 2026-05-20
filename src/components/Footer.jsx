@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-map">
-          <h3>Service Area: Lucknow & 20km Radius</h3>
+          <h3>Service Area: Kakori & 20km Radius</h3>
           <p className="map-desc">Serving Kakori, Alam Bagh, Chowk, Gomti Nagar, and surrounding areas.</p>
           <div className="map-container">
             {/* Embedded Google Map (Placeholder for Lucknow/Kakori region) */}
