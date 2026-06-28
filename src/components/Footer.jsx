@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-top">
           <div className="footer-brand">
-            <img src="./assets/logo1.jpg" alt="Suasha Enterprise Logo" className="footer-logo-img" style={{ maxWidth: '250px', marginBottom: '20px' }} />
+            <img src="./assets/logo1.jpg" alt="Suneel Construction Logo" className="footer-logo-img" style={{ maxWidth: '250px', marginBottom: '20px' }} />
             <p className="footer-desc">
               Premier structural construction and RCC slab formwork contractor in Lucknow.
               Building the infrastructure of tomorrow with precision and reliability.
@@ -55,7 +55,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} Suasha Enterprise. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Suneel Construction. All Rights Reserved.</p>
         </div>
       </div>
     </footer>

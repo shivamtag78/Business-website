@@ -9,7 +9,7 @@ const TechnicalAuthority = () => {
           <div className="authority-text">
             <h2 className="section-title text-white">Uncompromising Quality & Safety</h2>
             <p className="text-light mb-4">
-              At Suasha Enterprise, we believe that a strong foundation is built on rigorous standards.
+              At Suneel Construction, we believe that a strong foundation is built on rigorous standards.
               Our commitment to technical excellence ensures every project meets the highest benchmarks in Lucknow.
             </p>
             <ul className="authority-list">
