@@ -3,7 +3,7 @@ import './Hero.css';
 
 const Hero = () => {
   return (
-    <section className="hero" id="home" style={{ backgroundImage: "url('./assets/site1.png')" }}>
+    <section className="hero" id="home" style={{ backgroundImage: "url('./assets/site1.jpg')" }}>
       <div className="hero-overlay"></div>
       <div className="container hero-content">
         <h1 className="hero-title">Building the Foundations of Tomorrow</h1>
